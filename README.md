@@ -2,8 +2,7 @@
 
 Condensed-phase polymer degradation kinetic Mechanisms. Evaluation of gas-phase
 pyrolytic and gasification reactivity are underway at CRECK modelling POLIMI.
-The kinetic mechanisms are reported also on the creckmodelling website
-https://creckmodeling.chem.polimi.it/
+The kinetic mechanisms are reported also on the [creckmodelling website](https://creckmodeling.chem.polimi.it/)
 
 The folders are organized by polymer type.
 The kinetic mechanism proposed are of the semi-detailed kind employing a
@@ -22,7 +21,13 @@ temperatures and pressures (see RMG mit)
 PP has a significantly expensive mechanism which will be simplified in line with
 PE. Further work is under way hopefully.
 
+Further work will address development of:
+- PET, PA, PU, and PMMA semi-detailed condensed-phase kinetic mechanism
+- PE secondary gas-phase reactions
+- Interactions in PET-PVC-PA mixtures
+- Fully lumped model (<10 species) for CFD applications
+
 To cite the Kinetic Mechanism refer to the following publications:
-- PE, PP  10.1016/j.wasman.2022.11.028
-- PS      10.1016/j.jaap.2023.105960
-- PVC     10.1016/S0165-2370(03)00024-X
+- PE, PP  [10.1016/j.wasman.2022.11.028](https://www.sciencedirect.com/science/article/pii/S0956053X22005633)
+- PS      [10.1016/j.jaap.2023.105960](https://www.sciencedirect.com/science/article/pii/S0165237023001043)
+- PVC     [10.1016/S0165-2370(03)00024-X](https://www.sciencedirect.com/science/article/pii/S016523700300024X)

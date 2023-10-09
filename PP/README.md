@@ -14,11 +14,6 @@ In each folder are present the standard CHEMKIN files (gas kinetics, liquid kine
 thermodynamics, transport) and a sub-folder of LiquidProperties.
 The latter is required by OpenSMOKE but reports only FAKE liquid properties of
 all the chemical species included in the mechanism. These are required for the 
-1D model we have but they have not yet been addressed for polymers as I studied 
-only the 0D systems.  
-
-To run the simulation, OpenSMOKEpp needs to preprocess the kinetic mechanism
-This is performed with the CHEMKINPreprocessor.exe in the exe folder which is
-called by the Run_kinetics.bat in the example folders
-OpenSMOKE reads the chemkin format files 
+1D microgravity model available in OpenSMOKE, but they have not yet been addressed 
+for polymers outside of 0D systems.  
  
