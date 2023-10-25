@@ -17,9 +17,9 @@ For polyethylene several mechanisms of different complexity are available.
 Thermochemistry has been validated for PE, while for PS it has been implemented
 but without quantitative validation yet.
 Transport parameters are evaluated with a simplified approach based on critical
-temperatures and pressures (see RMG mit)
+temperatures and pressures (see [Holley et al. 2009](http://dx.doi.org/10.1016/j.proci.2008.05.067)).
 PP has a significantly expensive mechanism which will be simplified in line with
-PE. Further work is under way hopefully.
+PE.
 
 Further work will address development of:
 - PET, PA, PU, and PMMA semi-detailed condensed-phase kinetic mechanism
