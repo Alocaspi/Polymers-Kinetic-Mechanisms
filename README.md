@@ -49,8 +49,7 @@ temperatures and pressures, see [Holley et al. (2009)](http://dx.doi.org/10.1016
 The present models cannot be directly coupled to the creck gas-phase mechanism, 
 but further work is underway to assess the secondary gas-phase reactivity.
 
-
-![Aim-of-the-work](.images/aim.svg)
+<img src=".images/aim.svg" width="10000" >
 
      
 
