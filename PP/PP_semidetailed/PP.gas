@@ -1,0 +1,42 @@
+ELEMENTS
+C H O N HE
+END
+SPECIES
+
+N2	HE
+
+!MID-CHAINS
+ P-IC21H42-P P-IC21H41-P 
+
+!END-CHAINS
+ P-IC21H43t  P-IC21H43h  P-IC21H41t  P-IC21H41h  P-IC21H42t  
+ P-IC21H42t_T P-IC21H42h  P-IC21H42h_T P-IC21H40t  P-IC21H40t_A 
+ P-IC21H40h  P-IC21H40h_A 
+
+!unreactive LMW
+ C2H6        C3H8        IC4H10      NC5H12      IC6H14      
+ IC7H16      IC8H18      IC9H20      IC10H22     IC17H36     
+ IC18H38     IC19H40     C3H6        IC4H8       C5H10_2     
+ IC6H12      IC7H14      IC8H16      IC9H18      IC10H20     
+ IC17H34     IC18H36     IC19H38     IC6H10      IC7H12      
+ IC8H14      IC9H16      IC10H18     IC17H32     IC18H34     
+ IC19H36     
+
+!stable LLMW
+ IC26H54         IC27H56         IC28H58         IC35H72         IC36H74         IC37H76        
+ IC26H52         IC27H54         IC28H56         IC35H70         IC36H72         IC37H74        
+ IC26H50         IC27H52         IC28H54         IC35H68         IC36H70         IC37H72        
+
+!radicals LLMW
+ IC26H53         IC27H55         IC28H57         IC35H71         IC36H73         IC37H75        
+ IC26H53_T       IC27H55_T       IC28H57_T       IC35H71_T       IC36H73_T       IC37H75_T      
+ IC26H51         IC27H53         IC28H55         IC35H69         IC36H71         IC37H73        
+ IC26H51_T       IC27H53_T       IC28H55_T       IC35H69_T       IC36H71_T       IC37H73_T      
+ IC26H51_A       IC27H53_A       IC28H55_A       IC35H69_A       IC36H71_A       IC37H73_A      
+ IC26H49         IC27H51         IC28H53         IC35H67         IC36H69         IC37H71        
+ IC26H49_A       IC27H51_A       IC28H53_A       IC35H67_A       IC36H69_A       IC37H71_A      
+
+END
+
+REACTIONS
+END

@@ -1,0 +1,18 @@
+ELEMENTS
+C H O N HE
+END
+SPECIES
+
+N2	HE
+
+!MID-CHAINS
+ P-IC42H84-P_S P-IC42H84-P 
+
+!unreactive LMW
+ C3H6        C5H12       IC4H8     
+ IC6H10      IC9H18      IC15H30     IC30H60     
+
+END
+
+REACTIONS
+END

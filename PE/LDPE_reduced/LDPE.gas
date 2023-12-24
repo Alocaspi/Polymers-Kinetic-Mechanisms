@@ -1,0 +1,33 @@
+ELEMENTS
+C H O N HE
+END
+SPECIES
+
+N2	HE
+
+!MID-CHAINS
+ P-C30H60-P_S P-C30H60-P  P-C30H59-P  
+
+!END-CHAINS
+ P-C30H61    P-C30H59    P-C30H60    P-C30H58    
+
+!unreactive LMW
+ CH4         C2H6        C3H8        NC4H10      NC5H12      
+ NC7H16      NC16H34     C2H4        C3H6        C4H8-1      
+ NC5H10      NC7H14      C16H32      C4H6        LC5H8       
+ C7H12       C16H30      
+
+!stable LLMW
+ C30H62          C58H118        
+ C30H60          C58H116        
+ C30H58          C58H114        
+
+!radicals LLMW
+ C30H61          C58H117        
+ C30H59          C58H115        
+ C30H57          C58H113        
+
+END
+
+REACTIONS
+END

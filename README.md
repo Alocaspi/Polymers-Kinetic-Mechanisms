@@ -1,11 +1,41 @@
 # Polymers-Kinetic-Mechanisms
+![Logo](.images/intro.svg)
 
 Condensed-phase polymer degradation kinetic Mechanisms. Evaluation of gas-phase
 pyrolytic and gasification reactivity are underway at CRECK modelling POLIMI.
-The kinetic mechanisms are reported also on the [creckmodelling website](https://creckmodeling.chem.polimi.it/)
+The present repository is the polymer pyrolysis subset of the comprehensive one
+on GitHub of [Creck Modeling Lab](https://github.com/CRECKMODELING/Kinetic-Mechanisms).
+The mechanisms reported here are those employed and validated for my PhD Thesis (currently under writing).
 
-The folders are organized by polymer type.
-The kinetic mechanism proposed are of the semi-detailed kind employing a
+The folders are organized by polymer type. In general semi-detailed, reduced, 
+and skeletal mechanisms are available. Specifically:
+- **Polyethylene (PE)**: different models are available for HDPE and LDPE
+    according to the degree of detail involved in products and radicals description.
+    For HDPE both [semi-detailed](PE/HDPE_semidetailed), [reduced](PE/HDPE_reduced) 
+    and [skeletal](PE/HDPE_skeletal) versions are availble. The same holds for LDPE with
+    the [semi-detailed](PE/LDPE_semidetailed), [reduced](PE/LDPE_reduced) and 
+    [skeletal](PE/LDPE_skeletal) mechanisms are reported. Thermodynamics and transport
+    have been assessed as well.
+- **Polypropylene (PP)**: has a [semi-detailed](PP/PP_semidetailed), [reduced](PP/PP_reduced)
+    and [skeletal](PP/PP_skeletal) mechanism available as well. Thermodynamics and transport
+    have been validated. The mechanism for APP has not been reported due to the lower importance
+    of APP in general wastes.
+- **Polystyrene (PS)**: the proposed mechanisms account for all structural differences. 
+    The [semi-detailed](PS/PS_semidetailed) mechanism and both a [reduced](PS/PS_reduced) 
+    and [skeletal](PS/PS_skeletal) version are currently available with validated
+    thermodynamic properties. 
+- **Poly(vinyl chloride) (PVC)**: the proposed [mechanism](PVC) accounts for the pure polymer degradation.
+- Currently underway are models for **PET, PA, PMMA, and PU** and condensed-phase interactions
+
+For most mechanisms, some validation pictures are reported as well.
+
+## Kinetic Mechanism Description
+    
+The aim of the proposed kinetic models is to reproduce the main features of the degradation
+process at low computational cost. This refers to describing the characteristic
+degradation times (mass-loss profiles), product distribution, and heat requirements.
+
+The kinetic mechanism are of the semi-detailed or lumped kind employing a
 functional group approach:
 - Long polymer chains are described with functional groups characteristic of
     the polymer moieties (mid- and end-chain groups) recognized by the "P-" in
@@ -13,21 +43,14 @@ functional group approach:
 - Short chains, i.e. compounds of interest, are described with real species as
     C2H4, C15H30, etc
 
-For polyethylene several mechanisms of different complexity are available.
-Thermochemistry has been validated for PE, while for PS it has been implemented
-but without quantitative validation yet.
+Thermochemistry has been validated for PE, PP, and PS.
 Transport parameters are evaluated with a simplified approach based on critical
-temperatures and pressures (see [Holley et al. 2009](http://dx.doi.org/10.1016/j.proci.2008.05.067)).
-PP has a significantly expensive mechanism which will be simplified in line with
-PE.
+temperatures and pressures, see [Holley et al. (2009)](http://dx.doi.org/10.1016/j.proci.2008.05.067).
+The present models cannot be directly coupled to the creck gas-phase mechanism, 
+but further work is underway to assess the secondary gas-phase reactivity.
 
-Further work will address development of:
-- PET, PA, PU, and PMMA semi-detailed condensed-phase kinetic mechanism
-- PE secondary gas-phase reactions
-- Interactions in PET-PVC-PA mixtures
-- Fully lumped model (<10 species) for CFD applications
 
-To cite the Kinetic Mechanism refer to the following publications:
-- PE, PP  [10.1016/j.wasman.2022.11.028](https://www.sciencedirect.com/science/article/pii/S0956053X22005633)
-- PS      [10.1016/j.jaap.2023.105960](https://www.sciencedirect.com/science/article/pii/S0165237023001043)
-- PVC     [10.1016/S0165-2370(03)00024-X](https://www.sciencedirect.com/science/article/pii/S016523700300024X)
+![Aim-of-the-work](.images/aim.svg)
+
+     
+
