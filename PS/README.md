@@ -4,8 +4,8 @@ In this folder are present the CHEMKIN format files.
 Each mechanism is labelled as polymer_Nspecies_Nreactions. For instance PS_44_330 
 is the mechanism with 44 species and 330 reactions.
 The mechanism proposed for PS are:
-- [PS_65_550](PS_semidetailed) which is the updated published mechanism [(Locaspi et al., (2023)](https://doi.org/10.1016/j.jaap.2023.105960)
-- [PS_42_330](PS_reduced) a reduced version with lower computational cost
+- [PS_55_500](PS_semidetailed) which is the updated published mechanism [(Locaspi et al., (2023)](https://doi.org/10.1016/j.jaap.2023.105960)
+- [PS_42_300](PS_reduced) a reduced version with lower computational cost
 - [PS_7_6](PS_skeletal) a skeletal mechanism with significantly lower computational cost. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 Both the reduced and skeletal models are developed as with PE (Locaspi and Faravelli 2024, under review).
@@ -21,10 +21,9 @@ All mechanisms are described in detailed in the PhD thesis:
 
 ## Mechanism description
 
-For the semidetailed and reduced mechanisms, the starting polymer at room temperature is described by the species
-P-C16H16-P. For the skeletal model, the starting species is P-C32H32-P.
-Since the glass transition involves small heat fluxes, the initial species 
-represents also the solid-phase polymer. 
+For all mechanisms, the starting polymer at room temperature is described by the 
+species P-C16H16-P. Since the glass transition involves small heat fluxes, the 
+initial species represents also the solid-phase polymer. 
 Polymer species in OpenSMOKE++ are required to be 
 defined in gas-phase as well but do not have physical meaning.
 

@@ -15,12 +15,12 @@ N2	HE
 !unreactive LMW
  C8H10       C8H8               C6H4        
 
-!stable LLMW
+!stable RLMW
  C16H18          C24H26         
  C16H16          C24H24         
  C16H14          C24H22         
 
-!radicals LLMW
+!radicals RLMW
  C16H17          C24H25         
  C16H17_T        C24H25_T       
                  C24H23         
