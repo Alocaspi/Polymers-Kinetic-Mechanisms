@@ -9,22 +9,22 @@ The mechanisms reported here are those employed and validated for my PhD Thesis 
 
 The folders are organized by polymer type. In general semi-detailed, reduced, 
 and skeletal mechanisms are available. Specifically:
-- **Polyethylene (PE)**: different models are available for HDPE and LDPE
+- **Polyethylene** ([PE](PE): different models are available for HDPE and LDPE
     according to the degree of detail involved in products and radicals description.
     For HDPE both [semi-detailed](PE/HDPE_semidetailed), [reduced](PE/HDPE_reduced) 
     and [skeletal](PE/HDPE_skeletal) versions are availble. The same holds for LDPE with
     the [semi-detailed](PE/LDPE_semidetailed), [reduced](PE/LDPE_reduced) and 
     [skeletal](PE/LDPE_skeletal) mechanisms are reported. Thermodynamics and transport
     have been assessed as well.
-- **Polypropylene (PP)**: has a [semi-detailed](PP/PP_semidetailed), [reduced](PP/PP_reduced)
+- **Polypropylene** ([PP](PP): has a [semi-detailed](PP/PP_semidetailed), [reduced](PP/PP_reduced)
     and [skeletal](PP/PP_skeletal) mechanism available as well. Thermodynamics and transport
     have been validated. The mechanism for APP has not been reported due to the lower importance
     of APP in general wastes.
-- **Polystyrene (PS)**: the proposed mechanisms account for all structural differences. 
+- **Polystyrene** ([PS](PS): the proposed mechanisms account for all structural differences. 
     The [semi-detailed](PS/PS_semidetailed) mechanism and both a [reduced](PS/PS_reduced) 
     and [skeletal](PS/PS_skeletal) version are currently available with validated
     thermodynamic properties. 
-- **Poly(vinyl chloride) (PVC)**: the proposed [mechanism](PVC) accounts for the pure polymer degradation.
+- **Poly(vinyl chloride)** ([PVC](PVC): the proposed [mechanism](PVC) accounts for the pure polymer degradation.
 - Currently underway are models for **PET, PA, PMMA, and PU** and condensed-phase interactions
 
 For most mechanisms, some validation pictures are reported as well.
