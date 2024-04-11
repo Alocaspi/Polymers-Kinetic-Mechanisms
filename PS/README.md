@@ -6,7 +6,7 @@ is the mechanism with 44 species and 330 reactions.
 The mechanism proposed for PS are:
 - [PS_55_500](PS_semidetailed) which is the updated published mechanism [(Locaspi et al., (2023)](https://doi.org/10.1016/j.jaap.2023.105960)
 - [PS_42_300](PS_reduced) a reduced version with lower computational cost
-- [PS_7_6](PS_skeletal) a skeletal mechanism with significantly lower computational cost. 
+- [PS_7_6](PS_multistep) a "global" mechanism with significantly lower computational cost. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 Both the reduced and skeletal models are developed as with PE (Locaspi and Faravelli 2024, under review).
 

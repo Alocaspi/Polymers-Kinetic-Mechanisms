@@ -6,7 +6,7 @@ is the mechanism with 10 species and 10 reactions.
 The mechanism proposed for PS are:
 - [PP_240_13000](PP_semidetailed) which is the updated published mechanism [(Locaspi et al. (2022))](https://doi.org/10.1016/j.wasman.2022.11.028)
 - [PP_130_2500](PP_reduced) a reduced version with lower computational cost
-- [PP_10_12](PP_skeletal) a skeletal mechanism with significantly lower computational cost. 
+- [PP_10_12](PP_multistep) a "global" mechanism with significantly lower computational cost. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 Both the reduced and skeletal models are developed in line with PE (Locaspi and Faravelli 2024, under review).
 
@@ -17,7 +17,7 @@ To cite the reduced and skeletal mechanisms also refer to the procedure develope
 - **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute  
 
 All mechanisms are described in detailed in the PhD thesis:
-- **Locaspi Andrea**, "A lumped condensed-phase approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
+- **Locaspi Andrea**, "A lumped condensed-phase kinetic approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
 
 ## Mechanism description
 

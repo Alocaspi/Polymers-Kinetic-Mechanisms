@@ -7,15 +7,15 @@ The mechanism proposed for HDPE are:
 - [HDPE_125_3500](HDPE_semidetailed) the updated published mechanism cantera and 
     opensmoke compatible 
 - [HDPE_50_480](HDPE_reduced) a reduced version with lower computational cost.
-- [HDPE_10_10](HDPE_skeletal) a skeletal model with significantly lower computational cost.
+- [HDPE_10_10](HDPE_multistep) a "global" model with significantly lower computational cost.
 
 The same versions are available for LDPE as well: [semi-detailed](LDPE_semidetailed), [reduced](LDPE_reduced)
-and [skeletal](LDPE_skeleta) are available. The number of species involved is the same. 
+and [multistep](LDPE_multistep) are available. The number of species involved is the same. 
 
 To cite the **Semi-detailed** Kinetic Mechanisms refer to the following publication:
 - **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polyethylene and polypropylene pyrolysis." Waste Management 156 (2023): 107-117 [DOI](https://doi.org/10.1016/j.wasman.2022.11.028)
 
-To cite the **Skeletal** Kinetic Mechanisms refer to the following publication:
+To cite the **multistep** Kinetic Mechanisms refer to the following publication:
 - **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute
 
 To cite the **Reduced** Kinetic Mechanisms both citations must be used:
@@ -23,7 +23,7 @@ To cite the **Reduced** Kinetic Mechanisms both citations must be used:
 - **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute
 
 All mechanisms are described in detailed in the PhD thesis:
-- **Locaspi Andrea**, "A lumped condensed-phase approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
+- **Locaspi Andrea**, "A lumped condensed-phase kinetic approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
   
 ## Mechanism description
 
