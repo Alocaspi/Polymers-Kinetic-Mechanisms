@@ -11,19 +11,16 @@ The mechanism proposed for HDPE are:
 
 The same versions are available for LDPE as well: [semi-detailed](LDPE_semidetailed), [reduced](LDPE_reduced)
 and [multistep](LDPE_multistep) are available. The number of species involved is the same. 
+The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 
 To cite the **Semi-detailed** Kinetic Mechanisms refer to the following publication:
 - **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polyethylene and polypropylene pyrolysis." Waste Management 156 (2023): 107-117 [DOI](https://doi.org/10.1016/j.wasman.2022.11.028)
 
-To cite the **multistep** Kinetic Mechanisms refer to the following publication:
-- **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute
+To cite the **Reduced** and the **multistep** Kinetic Mechanisms refer to the following publication:
+- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for plastic waste thermochemical recycling: polyethylene, polypropylene, and polystyrene", under review at Chemical Engineering Journal
 
-To cite the **Reduced** Kinetic Mechanisms both citations must be used:
-- **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polyethylene and polypropylene pyrolysis." Waste Management 156 (2023): 107-117 [DOI](https://doi.org/10.1016/j.wasman.2022.11.028)
-- **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute
-
-All mechanisms are described in detailed in the PhD thesis:
-- **Locaspi Andrea**, "A lumped condensed-phase kinetic approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
+All mechanisms are described in detail in the PhD thesis:
+- **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
   
 ## Mechanism description
 

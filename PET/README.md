@@ -11,7 +11,7 @@ To cite the Kinetic Mechanisms refer to the following publication:
 - **Locaspi, Andrea et al.** "Kinetic modelling and experimental investigation of PolyEthylene Terephthalate pyrolysis" Chemical Engineering Journal **Under Review**
 
 The mechanism is described in detailed in the PhD thesis:
-- **Locaspi Andrea**, "A lumped condensed-phase approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
+- **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
   
 ## Mechanism description
 

@@ -8,16 +8,16 @@ The mechanism proposed for PS are:
 - [PP_130_2500](PP_reduced) a reduced version with lower computational cost
 - [PP_10_12](PP_multistep) a "global" mechanism with significantly lower computational cost. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
-Both the reduced and skeletal models are developed in line with PE (Locaspi and Faravelli 2024, under review).
 
-To cite the Kinetic Mechanism refer to the following publications:
+
+To cite the semi-detailed Kinetic Mechanism refer to the following publications:
 - **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polyethylene and polypropylene pyrolysis." Waste Management 156 (2023): 107-117 [DOI](https://doi.org/10.1016/j.wasman.2022.11.028)
 
-To cite the reduced and skeletal mechanisms also refer to the procedure developed for PE:
-- **Locaspi, Andrea et al.** "A skeletal condensed-phase kinetic model for polyethylene thermal degradation", under review at Proceeding of The Combustion Institute  
+To cite the **Reduced** and the **multistep** Kinetic Mechanisms refer to the following publication:
+- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for plastic waste thermochemical recycling: polyethylene, polypropylene, and polystyrene", under review at Chemical Engineering Journal
 
-All mechanisms are described in detailed in the PhD thesis:
-- **Locaspi Andrea**, "A lumped condensed-phase kinetic approach for plastic waste thermochemical recycling", Politecnico di Milano, 2024
+All mechanisms are described in detail in the PhD thesis:
+- **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
 
 ## Mechanism description
 
