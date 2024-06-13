@@ -24,11 +24,32 @@ and skeletal mechanisms are available. Specifically:
     The [semi-detailed](PS/PS_semidetailed) mechanism and both a [reduced](PS/PS_reduced) 
     and [multistep](PS/PS_multistep) version are currently available with validated
     thermodynamic properties. 
-- **Poly(ethylene terephthalate)** ([PET](PET)): a single semi-detailed [mechanism](PET) accounts for the pure polymer degradation.
-- **Poly(vinyl chloride)** ([PVC](PVC)): the proposed [mechanism](PVC) accounts for the pure polymer degradation.
+- **Poly(ethylene terephthalate)** ([PET](PET)): a single semi-detailed [mechanism](PET) 
+    accounts for the pure polymer degradation.
+- **Poly(vinyl chloride)** ([PVC](PVC)): the [mechanism](PVC) of [Marongiu et al. (2003)](https://doi.org/10.1016/S0165-2370(03)00024-X) 
+    is here reported and employed for the pure polymer degradation.
 - Currently underway are models for **PA, PMMA, and PU** and condensed-phase interactions
 
-For most mechanisms, some validation pictures are reported as well.
+## Experimental Data Availability
+The folders of each polymer investigated report all the literature experimental data 
+employed for validation purposes. For most mechanisms, some validation comparisons
+are reported as well. I do not own any of these data, they are generally taken with
+plot_digitizer from the of plots of published papers (so there is lots of rumor 
+which hinders the quality of DTG comparisons).
+
+In each polymer folder there is a subfolder labelled "Exp_data". This is composed
+of subfolders labelled with the corresponding operating condition (e.g., 10 Kmin)
+and containing a json file (Exp_data.json) with all the data inside. The data are
+structured by type (TG, DTG, DSC, Gas_Yield), author, and values (with units). 
+No DOI is reported herein, but you can find all the exact references on the 
+mechanism papers. Gas yields data are already lumped to the models' species.
+
+Each Exp_data folder also hosts a file "Operating_conditions.json", which reports
+the information used for model simulation (e.g., how the temperature profiles are
+estimated, and so on).
+
+Experimental data on mixture pyrolysis and volatiles molar yields have not been 
+yet placed here.
 
 ## Kinetic Mechanism Description
     

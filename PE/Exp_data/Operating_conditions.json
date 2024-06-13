@@ -1,0 +1,681 @@
+{
+    "1 °C-min": {
+        "case_fold": "1 °C-min", "HR": [1, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "2 °C-min": {
+        "case_fold": "2 °C-min", "HR": [2, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "3 °C-min": {
+        "case_fold": "3 °C-min", "HR": [3, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "4 °C-min": {
+        "case_fold": "4 °C-min", "HR": [4, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "5 °C-min": {
+        "case_fold": "5 °C-min", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6 °C-min": {
+        "case_fold": "6 °C-min", "HR": [6, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "7.5 °C-min": {
+        "case_fold": "7_5 °C-min", "HR": [7.5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "8 °C-min": {
+        "case_fold": "8 °C-min", "HR": [8, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "10 °C-min": {
+        "case_fold": "10 °C-min", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "12 °C-min": {
+        "case_fold": "12 °C-min", "HR": [12, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "20 °C-min": {
+        "case_fold": "20 °C-min", "HR": [20, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "25 °C-min": {
+        "case_fold": "25 °C-min", "HR": [25, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "40 °C-min": {
+        "case_fold": "40 °C-min", "HR": [40, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "50 °C-min": {
+        "case_fold": "50 °C-min", "HR": [50, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "100 °C-min": {
+        "case_fold": "100 °C-min", "HR": [100, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "500 °C-min": {
+        "case_fold": "500 °C-min", "HR": [500, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "600 °C-min": {
+        "case_fold": "600 °C-min", "HR": [600, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "1000 °C-min": {
+        "case_fold": "1000 °C-min", "HR": [1000, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6000 °C-min": {
+        "case_fold": "6000 °C-min", "HR": [6000, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "10000 °C-min": {
+        "case_fold": "10000 °C-min", "HR": [10000, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "100000 °C-min": {
+        "case_fold": "100000 °C-min", "HR": [100000, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "1000000 °C-min": {
+        "case_fold": "1000000 °C-min", "HR": [1000000, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "5 °C-min 1 mmHg": {
+        "case_fold": "5 °C-min 1mmHg", "HR": [5, "K/min"],
+        "P": [1, "mmHg"],
+        "MW": [20000, "g/mol"]
+    },
+    "0.1 atm": {
+        "case_fold": "5 °C-min 01bar", "HR": [5, "K/min"],
+        "P": [0.1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "0.5 atm": {
+        "case_fold": "5 °C-min 05bar", "HR": [5, "K/min"],
+        "P": [0.5, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "1 atm": {
+        "case_fold": "5 °C-min", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "2 atm": {
+        "case_fold": "5 °C-min 2bar", "HR": [5, "K/min"],
+        "P": [2, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "5 atm": {
+        "case_fold": "5 °C-min 5bar", "HR": [5, "K/min"],
+        "P": [5, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "10 atm": {
+        "case_fold": "5 °C-min 10bar", "HR": [5, "K/min"],
+        "P": [10, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "25 atm": {
+        "case_fold": "5 °C-min 25bar", "HR": [5, "K/min"],
+        "P": [25, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "50 atm": {
+        "case_fold": "5 °C-min 50bar", "HR": [5, "K/min"],
+        "P": [50, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "1000 g-mol": {
+        "case_fold": "10 °C-min 1k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [1000, "g/mol"]
+    },
+    "5000 g-mol": {
+        "case_fold": "10 °C-min 5k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [5000, "g/mol"]
+    },
+    "10000 g-mol": {
+        "case_fold": "10 °C-min 10k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [10000, "g/mol"]
+    },
+    "20000 g-mol": {
+        "case_fold": "10 °C-min 20k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [20000, "g/mol"]
+    },
+    "80000 g-mol": {
+        "case_fold": "10 °C-min 80k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "400000 g-mol": {
+        "case_fold": "10 °C-min 400k mw", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [400000, "g/mol"]
+    },
+    "50 °C-min 400": {
+        "case_fold": "IsoKhedri 400", "profile": {
+            "t": [[0, 2, 4, 6, 6.6, 7.6, 700],
+                "min"],
+            "T": [[20, 120, 220, 320, 350, 400, 400],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "50 °C-min 410": {
+        "case_fold": "IsoKhedri 410", "profile": {
+            "t": [[0, 2, 4, 6, 6.8, 7.8, 700],
+                "min"],
+            "T": [[20, 120, 220, 320, 360, 410, 410],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "50 °C-min 420": {
+        "case_fold": "IsoKhedri 420", "profile": {
+            "t": [[0, 2, 4, 6, 7, 8, 700],
+                "min"],
+            "T": [[20, 120, 220, 320, 370, 420, 420],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "50 °C-min 430": {
+        "case_fold": "IsoKhedri 430", "profile": {
+            "t": [[0, 2, 4, 6, 7.2, 8.2, 700],
+                "min"],
+            "T": [[20, 120, 220, 320, 380, 430, 430],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "5 °C-min 390": {
+        "case_fold": "IsoBudrugeac 390", "profile": {
+            "t": [[0, 3.487852, 15.527843, 29.970224, 49.844227, 67.30361, 75.09593, 93.11602, 118.29584, 122.488884, 180.04347, 340.71542, 472.60828],
+                "min"],
+            "T": [[26, 26.37775, 85.75079,
+                    151.37129,
+                    260.74612, 349.99384, 348.22964, 390.2114, 390.16733, 385.7836, 386.5581, 386.5581, 386.5581],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "5 °C-min 400": {
+        "case_fold": "IsoBudrugeac 400", "profile": {
+            "t": [[0, 1.6900125, 20.344847, 42.61908, 66.705536, 70.900734, 90.124176, 136.8867, 278.97498, 377.89426],
+                "min"],
+            "T": [[26, 26.256176, 111.1254, 223.12187, 351.74542, 349.98755, 397.21884, 397.137, 399.5141, 397.59036],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "5 °C-min 420": {
+        "case_fold": "IsoBudrugeac 420", "profile": {
+            "t": [[0, 8.480936, 26.030825, 56.850594, 72.56312, 81.55587, 97.21375, 197.93117, 414.95773],
+                "min"],
+            "T": [[26, 53.7152, 154.09499,
+                    303.76776, 380.3652, 380.33353, 423.45062, 422.2146, 422.3308],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "5 °C-min 435": {
+        "case_fold": "IsoBudrugeac 435", "profile": {
+            "t": [[0, 16.153242, 31.824135, 51.092148, 59.54005, 70.93236, 90.15293, 123.72674],
+                "min"],
+            "T": [[26, 117.259674, 218.76437, 320.2628, 386.76907, 388.49966, 432.2299,
+                    433.0464],
+                "°C"]
+        },
+        "P": [1, "atm"],
+        "MW": [800000, "g/mol"]
+    },
+    "Iso 375 11k MW": {
+        "case_fold": "IsoJellinek 375 11K", "HR": [0, "K/min"],
+        "T0": [375, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [11000, "g/mol"]
+    },
+    "Iso 375 16k MW": {
+        "case_fold": "IsoJellinek 375 16K", "HR": [0, "K/min"],
+        "T0": [375, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [16000, "g/mol"]
+    },
+    "Iso 375 23k MW": {
+        "case_fold": "IsoJellinek 375 23K", "HR": [0, "K/min"],
+        "T0": [375, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [23000, "g/mol"]
+    },
+    "Iso 390 11k MW": {
+        "case_fold": "IsoJellinek 390 11K", "HR": [0, "K/min"],
+        "T0": [393, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [11000, "g/mol"]
+    },
+    "Iso 390 16k MW": {
+        "case_fold": "IsoJellinek 390 16K", "HR": [0, "K/min"],
+        "T0": [389,
+            "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [16000, "g/mol"]
+    },
+    "Iso 390 23k MW": {
+        "case_fold": "IsoJellinek 390 23K", "HR": [0, "K/min"],
+        "T0": [393, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [23000, "g/mol"]
+    },
+    "Iso 400 16k MW": {
+        "case_fold": "IsoJellinek 400 16K", "HR": [0, "K/min"],
+        "T0": [403, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [16000, "g/mol"]
+    },
+    "Iso 412 11k MW": {
+        "case_fold": "IsoJellinek 412 11K", "HR": [0, "K/min"],
+        "T0": [410, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [11000, "g/mol"]
+    },
+    "Iso 412 16k MW": {
+        "case_fold": "IsoJellinek 412 16K", "HR": [0, "K/min"],
+        "T0": [412, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [16000, "g/mol"]
+    },
+    "Iso 412 23k MW": {
+        "case_fold": "IsoJellinek 412 23K", "HR": [0, "K/min"],
+        "T0": [412, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [23000, "g/mol"]
+    },
+    "Iso 420 11k MW": {
+        "case_fold": "IsoJellinek 420 11K", "HR": [0, "K/min"],
+        "T0": [420, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [11000, "g/mol"]
+    },
+    "Iso 426 11k MW": {
+        "case_fold": "IsoJellinek 426 11K", "HR": [0, "K/min"],
+        "T0": [426, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [11000, "g/mol"]
+    },
+    "Iso 436 23k MW": {
+        "case_fold": "IsoJellinek 436 23K", "HR": [0, "K/min"],
+        "T0": [436, "°C"],
+        "P": [1e-05, "mmHg"],
+        "MW": [23000, "g/mol"]
+    },
+    "Iso 370": {
+        "case_fold": "Isothermal 370", "HR": [0, "K/min"],
+        "T0": [370, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 390": {
+        "case_fold": "Isothermal 390", "HR": [0, "K/min"],
+        "T0": [390, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 400": {
+        "case_fold": "Isothermal 400", "HR": [0, "K/min"],
+        "T0": [400, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 410": {
+        "case_fold": "Isothermal 410", "HR": [0, "K/min"],
+        "T0": [410, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 420": {
+        "case_fold": "Isothermal 420", "HR": [0, "K/min"],
+        "T0": [420, "°C"],
+        "P": [1, "atm"],
+        "MW": [120000, "g/mol"]
+    },
+    "Iso 430": {
+        "case_fold": "Isothermal 430", "HR": [0, "K/min"],
+        "T0": [430, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 460": {
+        "case_fold": "Isothermal 460", "HR": [0, "K/min"],
+        "T0": [460, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 500": {
+        "case_fold": "Isothermal 500", "HR": [0, "K/min"],
+        "T0": [500, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 550": {
+        "case_fold": "Isothermal 550", "HR": [0, "K/min"],
+        "T0": [550, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 590": {
+        "case_fold": "Isothermal 590", "HR": [0, "K/min"],
+        "T0": [590, "°C"],
+        "P": [1, "atm"],
+        "MW": [76000, "g/mol"]
+    },
+    "Iso 600": {
+        "case_fold": "Isothermal 600", "HR": [0, "K/min"],
+        "T0": [600, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 680": {
+        "case_fold": "Isothermal 680", "HR": [0, "K/min"],
+        "T0": [680, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 700": {
+        "case_fold": "Isothermal 700", "HR": [0, "K/min"],
+        "T0": [700, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 640": {
+        "case_fold": "Isothermal 640", "HR": [0, "K/min"],
+        "T0": [640, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 650": {
+        "case_fold": "Isothermal 650", "HR": [0, "K/min"],
+        "T0": [650, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 780": {
+        "case_fold": "Isothermal 780", "HR": [0, "K/min"],
+        "T0": [780, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 800": {
+        "case_fold": "Isothermal 800", "HR": [0, "K/min"],
+        "T0": [800, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 900": {
+        "case_fold": "Isothermal 900", "HR": [0, "K/min"],
+        "T0": [900, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 920": {
+        "case_fold": "Isothermal 920", "HR": [0, "K/min"],
+        "T0": [920, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6_7t18_21_29": {
+        "case_fold": "5 °C-min 6_7t18_21_29", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6_7t18_21_29_39": {
+        "case_fold": "5 °C-min 6_7t18_21_29_39", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6_12_24_35": {
+        "case_fold": "5 °C-min 6_12_24_35", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6_18_29": {
+        "case_fold": "5 °C-min 6_18_29", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "12_18_24_35": {
+        "case_fold": "5 °C-min 12_18_24_35", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "10_15_21_30_39": {
+        "case_fold": "5 °C-min 10_15_21_30_39", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "1 °C-min LDPE": {
+        "case_fold": "1 °C-min LDPE", "HR": [1, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "2 °C-min LDPE": {
+        "case_fold": "2 °C-min LDPE", "HR": [2, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "3 °C-min LDPE": {
+        "case_fold": "3 °C-min LDPE", "HR": [3, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "5 °C-min LDPE": {
+        "case_fold": "5 °C-min LDPE", "HR": [5, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "6 °C-min LDPE": {
+        "case_fold": "6 °C-min LDPE", "HR": [6, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "10 °C-min LDPE": {
+        "case_fold": "10 °C-min LDPE", "HR": [10, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "15 °C-min LDPE": {
+        "case_fold": "15 °C-min LDPE", "HR": [15, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "20 °C-min LDPE": {
+        "case_fold": "20 °C-min LDPE", "HR": [20, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "25 °C-min LDPE": {
+        "case_fold": "25 °C-min LDPE", "HR": [25, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "40 °C-min LDPE": {
+        "case_fold": "40 °C-min LDPE", "HR": [40, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "50 °C-min LDPE": {
+        "case_fold": "50 °C-min LDPE", "HR": [50, "K/min"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 680 LDPE": {
+        "case_fold": "Isothermal 680 LDPE", "HR": [0, "K/min"],
+        "T0": [680, "°C"],
+        "P": [1, "atm"],
+        "MW": [80000, "g/mol"]
+    },
+    "Iso 300_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [300, "°C"],
+        "case_fold": "Isothermal 300_4p2s_lumping"
+    },
+    "Iso 350_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [350, "°C"],
+        "case_fold": "Isothermal 350_4p2s_lumping"
+    },
+    "Iso 400_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [400, "°C"],
+        "case_fold": "Isothermal 400_4p2s_lumping"
+    },
+    "Iso 450_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [450, "°C"],
+        "case_fold": "Isothermal 450_4p2s_lumping"
+    },
+    "Iso 500_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [500, "°C"],
+        "case_fold": "Isothermal 500_4p2s_lumping"
+    },
+    "Iso 550_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [550, "°C"],
+        "case_fold": "Isothermal 550_4p2s_lumping"
+    },
+    "Iso 600_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [600, "°C"],
+        "case_fold": "Isothermal 600_4p2s_lumping"
+    },
+    "Iso 650_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [650, "°C"],
+        "case_fold": "Isothermal 650_4p2s_lumping"
+    },
+    "Iso 700_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [700, "°C"],
+        "case_fold": "Isothermal 700_4p2s_lumping"
+    },
+    "Iso 750_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [750, "°C"],
+        "case_fold": "Isothermal 750_4p2s_lumping"
+    },
+    "Iso 800_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [800, "°C"],
+        "case_fold": "Isothermal 800_4p2s_lumping"
+    },
+    "Iso 850_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [850, "°C"],
+        "case_fold": "Isothermal 850_4p2s_lumping"
+    },
+    "Iso 900_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [900, "°C"],
+        "case_fold": "Isothermal 900_4p2s_lumping"
+    },
+    "Iso 950_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [950, "°C"],
+        "case_fold": "Isothermal 950_4p2s_lumping"
+    },
+    "Iso 1000_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [1000, "°C"],
+        "case_fold": "Isothermal 1000_4p2s_lumping"
+    },
+    "Iso 1050_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [1050, "°C"],
+        "case_fold": "Isothermal 1050_4p2s_lumping"
+    },
+    "Iso 1100_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [1100, "°C"],
+        "case_fold": "Isothermal 1100_4p2s_lumping"
+    },
+    "Iso 1150_4p2s_lumping": {
+        "HR": [0, "K/min"],
+        "P": [1, "atm"],
+        "MW": [100000, "g/mol"],
+        "T0": [1150, "°C"],
+        "case_fold": "Isothermal 1150_4p2s_lumping"
+    }
+}
