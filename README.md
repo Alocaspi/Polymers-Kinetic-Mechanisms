@@ -25,7 +25,7 @@ and skeletal mechanisms are available. Specifically:
     and [multistep](PS/PS_multistep) version are currently available with validated
     thermodynamic properties. 
 - **Poly(ethylene terephthalate)** ([PET](PET)): a single semi-detailed [mechanism](PET) 
-    accounts for the pure polymer degradation.
+    accounts for the pure polymer degradation considering a single condensed pseudo-phase.
 - **Poly(vinyl chloride)** ([PVC](PVC)): the [mechanism](PVC) of [Marongiu et al. (2003)](https://doi.org/10.1016/S0165-2370(03)00024-X) 
     is here reported and employed for the pure polymer degradation.
 - Currently underway are models for **PA, PMMA, and PU** and condensed-phase interactions

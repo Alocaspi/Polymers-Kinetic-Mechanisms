@@ -4,7 +4,7 @@ In this folder are present the CHEMKIN format files.
 The mechanisms are labelled polymer_Nspecies_Nreactions. For instance HDPE_50_480 
 is the mechanism with 50 species and 480 reactions.
 The mechanism proposed for HDPE are:
-- [HDPE_125_3500](HDPE_semidetailed) the updated published mechanism cantera and 
+- [HDPE_125_4000](HDPE_semidetailed) the updated published mechanism cantera and 
     opensmoke compatible 
 - [HDPE_50_480](HDPE_reduced) a reduced version with lower computational cost.
 - [HDPE_10_10](HDPE_multistep) a "global" model with significantly lower computational cost.
