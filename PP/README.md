@@ -22,9 +22,9 @@ All mechanisms are described in detail in the PhD thesis:
 ## Mechanism description
 
 For all mechanisms the starting polymer at room temperature is described by the species
-P-IC30H60-P_S and P-IC30H60-P which represent the crystalline and amorphous polymer respectively.
+P-PP-P_S and P-PP-P which represent the crystalline and amorphous polymer respectively.
 If the simulation starts above the melting point (170C), the polymer is 
-described only by P-IC30H60-P. Polymer species in OpenSMOKE++ are required to be 
+described only by P-PP-P. Polymer species in OpenSMOKE++ are required to be 
 defined in gas-phase as well but do not have physical meaning.
 
 With respect to the published mechanism [(Locaspi et al. (2022)](https://doi.org/10.1016/j.wasman.2022.11.028), 

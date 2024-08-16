@@ -25,9 +25,10 @@ All mechanisms are described in detail in the PhD thesis:
 ## Mechanism description
 
 For all mechanisms, the starting polymer at room temperature is described by the species
-P-C40H80-P_S and P-C40H80-P which represent the crystalline and amorphous polymer respectively.
+P-HDPE-P_S and P-HDPE-P which represent the crystalline and amorphous polymer respectively.
+For LDPE, the starting species are labelled P-LDPE-P_S and P-LDPE-P.
 If the simulation starts above the melting point (130C), the polymer is 
-described only by P-C40H80-P. Polymer species in OpenSMOKE++ are required to be 
+described only by P-HDPE-P/P-LDPE-P. Polymer species in OpenSMOKE++ are required to be 
 defined in gas-phase as well but do not have physical meaning.
 
 With respect to the published mechanism [(Locaspi et al. (2022)](https://doi.org/10.1016/j.wasman.2022.11.028), 
