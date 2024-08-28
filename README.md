@@ -5,10 +5,10 @@ Condensed-phase polymer degradation kinetic Mechanisms. Evaluation of gas-phase
 pyrolytic and gasification reactivity are underway at CRECK modelling POLIMI.
 The present repository is the polymer pyrolysis subset of the comprehensive one
 on GitHub of [Creck Modeling Lab](https://github.com/CRECKMODELING/Kinetic-Mechanisms).
-The mechanisms reported here are those employed and validated for my PhD Thesis (currently under writing).
+The mechanisms reported here are those employed and validated for my [PhD Thesis](Locaspi_phdthesis.pdf).
 
 The folders are organized by polymer type. In general semi-detailed, reduced, 
-and skeletal mechanisms are available. Specifically:
+and multi-step mechanisms are available. Specifically:
 - **Polyethylene** ([PE](PE)): different models are available for HDPE and LDPE
     according to the degree of detail involved in products and radicals description.
     For HDPE both [semi-detailed](PE/HDPE_semidetailed), [reduced](PE/HDPE_reduced) 
@@ -25,9 +25,9 @@ and skeletal mechanisms are available. Specifically:
     and [multistep](PS/PS_multistep) version are currently available with validated
     thermodynamic properties. 
 - **Poly(ethylene terephthalate)** ([PET](PET)): a single semi-detailed [mechanism](PET) 
-    accounts for the pure polymer degradation considering a single condensed pseudo-phase.
+    accounts for the pure polymer degradation considering a single condensed pseudo-phase. Thermodynamic properties have NOT been studied.
 - **Poly(vinyl chloride)** ([PVC](PVC)): the [mechanism](PVC) of [Marongiu et al. (2003)](https://doi.org/10.1016/S0165-2370(03)00024-X) 
-    is here reported and employed for the pure polymer degradation.
+    is here reported and employed for the pure polymer degradation. Thermodynamic properties have NOT been studied.
 - Currently underway are models for **PA, PMMA, and PU** and condensed-phase interactions
 
 ## Experimental Data Availability
