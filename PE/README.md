@@ -13,11 +13,8 @@ The same versions are available for LDPE as well: [semi-detailed](LDPE_semidetai
 and [multistep](LDPE_multistep) are available. The number of species involved is the same. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 
-To cite the **Semi-detailed** Kinetic Mechanisms refer to the following publication:
-- **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polyethylene and polypropylene pyrolysis." Waste Management 156 (2023): 107-117 [DOI](https://doi.org/10.1016/j.wasman.2022.11.028)
-
-To cite the **Reduced** and the **multistep** Kinetic Mechanisms refer to the following publication:
-- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for plastic waste thermochemical recycling: polyethylene, polypropylene, and polystyrene", under review at Chemical Engineering Journal
+To cite the updated mechanisms refer to the following publication:
+- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for polyethylene, polypropylene and polystyrene thermochemical recycling", Chemical Engineering Journal 500 (2024): 156949 [DOI](https://doi.org/10.1016/j.cej.2024.156949)
 
 All mechanisms are described in detail in the PhD thesis:
 - **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
@@ -55,7 +52,7 @@ for polymers outside of 0D systems.
 ## Model Performances
 All mechanisms are validated with ~100 of data from the scientific literature.
 Here are reported few validation comparisons in terms of parity plots of mass-loss profiles 
-and gas-phase yields. At T>600°C secondary gas-phase reactions occur which will be 
+and gas-phase yields. At T>650°C secondary gas-phase reactions occur which will be 
 addressed in further studies.
 The detailed model of [Faravelli et al. (1999)](https://doi.org/10.1016/S0165-2370(99)00032-7) is also reported for comparison.
 

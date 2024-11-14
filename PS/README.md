@@ -9,11 +9,8 @@ The mechanism proposed for PS are:
 - [PS_7_6](PS_multistep) a "global" mechanism with significantly lower computational cost. 
 The reduction is performed with the approach proposed by [Pegurri et al. (2023)](https://doi.org/10.1016/j.combustflame.2023.113202).
 
-To cite the **Semi-detailed** Kinetic Mechanisms refer to the following publication:
-- **Locaspi, Andrea et al.** "Towards a lumped approach for solid plastic waste gasification: Polystyrene pyrolysis."Journal of Analytical and Applied Pyrolysis 171 (2023): 105960 [DOI](https://doi.org/10.1016/j.jaap.2023.105960)
-
-To cite the **Reduced** and the **multistep** Kinetic Mechanisms refer to the following publication:
-- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for plastic waste thermochemical recycling: polyethylene, polypropylene, and polystyrene", under review at Chemical Engineering Journal
+To cite the updated mechanisms refer to the following publication:
+- **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for polyethylene, polypropylene and polystyrene thermochemical recycling", Chemical Engineering Journal 500 (2024): 156949 [DOI](https://doi.org/10.1016/j.cej.2024.156949)
 
 All mechanisms are described in detail in the PhD thesis:
 - **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
