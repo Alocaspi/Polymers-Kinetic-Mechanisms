@@ -4,7 +4,7 @@ Condensed-phase polymer degradation kinetic Mechanisms. Evaluation of gas-phase
 pyrolytic and gasification reactivity are underway at CRECK modelling POLIMI.
 
 The folders are organized by polymer type. In general semi-detailed, reduced, 
-and skeletal mechanisms are available. Specifically:
+and multistep mechanisms are available. Specifically:
 - **Polyethylene** ([PE](PE)): different models are available for HDPE and LDPE
     according to the degree of detail involved in products and radicals description.
     For HDPE both [semi-detailed](PE/HDPE_semidetailed), [reduced](PE/HDPE_reduced) 
@@ -20,7 +20,9 @@ and skeletal mechanisms are available. Specifically:
     The [semi-detailed](PS/PS_semidetailed) mechanism and both a [reduced](PS/PS_reduced) 
     and [multistep](PS/PS_multistep) version are currently available with validated
     thermodynamic properties. 
-- **Poly(ethylene terephthalate)** ([PET](PET)): a single semi-detailed [mechanism](PET) accounts for the pure polymer degradation.
+- **Poly(ethylene terephthalate)** ([PET](PET)): a [semi-detailed](PET/PET_semidetailed/) and 
+    a [multistep](PET/PET_multistep/) are proposed, accounting for the pure polymer degradation.
+    Both models consider a single pseudo-phase that represents both polymer and char residue.
 - **Poly(vinyl chloride)** ([PVC](PVC)): the proposed semi-detailed [mechanism](PVC) accounts for the pure polymer degradation.
 - Currently underway are models for **PA, PMMA, and PU** and condensed-phase interactions
 
@@ -33,7 +35,7 @@ functional group approach:
 - Short chains, i.e. compounds of interest, are described with real species as
     C2H4, C15H30, etc
     
-Thermochemistry has been validated for PE, PP, and PS.
+Thermochemistry has been succesfully validated for PE, PP, and PS.
 Transport parameters are evaluated with a simplified approach based on critical
 temperatures and pressures, see [Holley et al. (2009)](http://dx.doi.org/10.1016/j.proci.2008.05.067).
 The present models cannot be directly coupled to the creck gas-phase mechanism, 
