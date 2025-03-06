@@ -16,10 +16,10 @@ and multistep mechanisms are available. Specifically:
 - **Polyethylene** ([PE](PE)): different models are available for HDPE and LDPE
     according to the degree of detail involved in products and radicals description.
     For HDPE both [semi-detailed](PE/HDPE_semidetailed), [reduced](PE/HDPE_reduced) 
-    and [multistep](PE/HDPE_multistep) versions are availble. The same holds for LDPE with
+    and [multistep with gas-phase reactions](PE/HDPE_multistep) versions are availble. The same holds for LDPE with
     the [semi-detailed](PE/LDPE_semidetailed), [reduced](PE/LDPE_reduced) and 
-    [multistep](PE/LDPE_multistep) mechanisms are reported. Thermodynamics and transport
-    have been assessed as well.
+    [multistep with gas-phase reactions](PE/LDPE_multistep) mechanisms are reported. 
+    Thermodynamics and transport have been assessed as well.
 - **Polypropylene** ([PP](PP)): has a [semi-detailed](PP/PP_semidetailed), [reduced](PP/PP_reduced)
     and [multistep](PP/PP_multistep) mechanism available as well. Thermodynamics and transport
     have been validated. The mechanism for APP has not been reported due to the lower importance

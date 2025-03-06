@@ -7,7 +7,8 @@ The mechanism proposed for HDPE are:
 - [HDPE_125_4000](HDPE_semidetailed) the updated published mechanism cantera and 
     opensmoke compatible 
 - [HDPE_50_480](HDPE_reduced) a reduced version with lower computational cost.
-- [HDPE_10_10](HDPE_multistep) a "global" model with significantly lower computational cost.
+- [HDPE_10_10](HDPE_multistep) a "global" model with significantly lower computational cost. 
+    **This model features also pyrolytic gas-phase reactions!**
 
 The same versions are available for LDPE as well: [semi-detailed](LDPE_semidetailed), [reduced](LDPE_reduced)
 and [multistep](LDPE_multistep) are available. The number of species involved is the same. 
@@ -15,6 +16,9 @@ The reduction is performed with the approach proposed by [Pegurri et al. (2023)]
 
 To cite the updated mechanisms refer to the following publication:
 - **Locaspi, Andrea et al.** "Reduced-order condensed-phase kinetic models for polyethylene, polypropylene and polystyrene thermochemical recycling", Chemical Engineering Journal 500 (2024): 156949 [DOI](https://doi.org/10.1016/j.cej.2024.156949)
+
+To cite the gas-phase PE model refer to the following publication:
+- **Locaspi, Andrea et al.** "A Semi-Detailed Pyrolytic Gas-Phase Kinetic Model for the Volatiles of Polyethylene Thermal Degradation", Proc. Comb. Inst. (2025), *under revision*
 
 All mechanisms are described in detail in the PhD thesis:
 - **Locaspi Andrea**, "A lumped condensed-phase kinetic model for plastic waste thermochemical recycling", Politecnico di Milano, 2024
