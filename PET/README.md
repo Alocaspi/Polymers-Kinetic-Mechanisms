@@ -4,8 +4,8 @@ In this folder are present the CHEMKIN format files.
 The mechanism is labelled polymer_Nspecies_Nreactions. For instance PET_85_700 
 is the mechanism with 85 species and 700 reactions.
 The mechanism proposed for PET are:
-- [PET_85_700](PET_semidetailed) the published mechanism 
-- [PET_18_19](PET_multistep) a "global" model with significantly lower computational cost.
+- [PET_85_700](PET_semidetailed) the semi-detailed published mechanism 
+- [PET_18_22](PET_multistep) a fully lumped multi-step model with significantly lower computational cost.
 
 The **thermodynamic properties have not been investigated due to lack of data** and
 theoretical approaches for aromatic esters.
